@@ -1,0 +1,21 @@
+.input {
+  background:#fefefe;
+  color:#272727;
+  border-radius:6px;
+  border:none;
+  outline:none;
+  padding:1rem;
+  display:block;
+  margin-top: 0.5rem;
+  margin-bottom: 1.25rem;
+  width: 460px;
+}
+
+.label {
+  font-size:1.25rem;
+  font-weight: bold;
+}
+
+.input:focus {
+  outline: 2px solid green;
+}
